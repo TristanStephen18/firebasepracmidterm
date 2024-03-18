@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978362463517",
+    "project_id": "practicemidterm-28f65",
+    "storage_bucket": "practicemidterm-28f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978362463517:android:54e890047c5c3b0d879df4",
+        "android_client_info": {
+          "package_name": "com.example.midtermpracfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkUg41j7pLwVTZyEmhcW8IQAfe7OELRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
