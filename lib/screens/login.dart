@@ -94,7 +94,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 SizedBox(height: 20,),
                 ElevatedButton(onPressed: login, child: const Text('Log In'),
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.green
+                  // primary: Colors.green
                 ),)
               ],
             ),

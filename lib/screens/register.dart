@@ -121,7 +121,7 @@ class _RegisterscreenState extends State<Registerscreen> {
                 SizedBox(height: 20,),
                 ElevatedButton(onPressed: validateform, child: const Text('Register Account'),
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.green
+                  // primary: Colors.green
                 ),
                 ),
                 Gap(20),

@@ -11,7 +11,7 @@ void main() async {
   await Firebase.initializeApp(
   options: DefaultFirebaseOptions.currentPlatform,
  );
-  runApp(Home());
+  runApp(const Home());
 }
 
 class Home extends StatelessWidget {
